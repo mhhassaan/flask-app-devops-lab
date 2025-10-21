@@ -1,0 +1,12 @@
+body {
+    background: #f9fafb;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+#feedbackList li {
+    border-radius: 10px;
+    margin-bottom: 8px;
+}
